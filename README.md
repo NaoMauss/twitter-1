@@ -8,6 +8,6 @@ Project made by:
 
 ```Angry Squirrel``` aka Guillaume Maugin as Developper,
 
-```gaut123456``` aka Gauthier Duffier as Developper & Happiness Manager,
+```gaut123456``` aka Gauthier Duffier as Developper & Happiness Manager.
 
 Using HTML & CSS
