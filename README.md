@@ -1,5 +1,8 @@
 # Twitter Copycat
 
+![Capture d’écran 2021-11-02 232325](https://user-images.githubusercontent.com/91453617/142171041-b680d8e0-ef2c-40ba-8d59-e417a6611281.png)
+
+
 ## Why
 
 This project take parts in an educational basis, to learn easy an advanced feature of HTML5 CSS3. <br>
